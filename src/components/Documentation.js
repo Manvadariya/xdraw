@@ -30,6 +30,10 @@ const Documentation = () => {
         <li>Offline Mode: Provide functionality even without internet access, syncing changes once reconnected.</li>
         <li>Custom Styling Options: Allow users to switch between hand-drawn, clean, or professional styles for diagrams.</li>
       </ul>
+      <h2>UI Improvements</h2>
+      <p>
+        The UI has been improved to include a toolbar with buttons for shapes, text, connectors, and freehand drawing. The application now supports real-time collaboration with voice and video chat features. AI suggestions for shapes or layouts have been implemented. Users can switch between hand-drawn, clean, or professional styles for diagrams. Export options now include PNG, SVG, shareable links, PDF, and Google Drive integration. Offline mode functionality has been added.
+      </p>
       <h2>Getting Started</h2>
       <ol>
         <li>Clone the repository:

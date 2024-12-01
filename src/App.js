@@ -8,6 +8,7 @@ import AI from './components/AI';
 import OfflineMode from './components/OfflineMode';
 import CustomStyling from './components/CustomStyling';
 import ExtendedExport from './components/ExtendedExport';
+import Documentation from './components/Documentation';
 
 const App = () => {
   const [style, setStyle] = useState('hand-drawn');
@@ -22,6 +23,7 @@ const App = () => {
       <OfflineMode />
       <CustomStyling setStyle={setStyle} />
       <ExtendedExport />
+      <Documentation />
     </div>
   );
 };
