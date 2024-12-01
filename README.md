@@ -25,6 +25,10 @@ Xdraw is built using React and can be integrated into web apps via its library, 
 - **Offline Mode**: Provide functionality even without internet access, syncing changes once reconnected.
 - **Custom Styling Options**: Allow users to switch between hand-drawn, clean, or professional styles for diagrams.
 
+## UI Improvements
+
+The UI has been improved to include a toolbar with buttons for shapes, text, connectors, and freehand drawing. The application now supports real-time collaboration with voice and video chat features. AI suggestions for shapes or layouts have been implemented. Users can switch between hand-drawn, clean, or professional styles for diagrams. Export options now include PNG, SVG, shareable links, PDF, and Google Drive integration. Offline mode functionality has been added.
+
 ## Getting Started
 
 To get started with Xdraw, follow these steps:
